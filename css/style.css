@@ -1,0 +1,45 @@
+.title {
+    color: red;
+}
+p.text{
+    color: green;
+}
+
+/* .lowcost {
+    color: brown;
+} */
+
+/* .main {
+    color: antiquewhite;
+} */
+.subtitle {
+    color: brown;
+}
+.text~p{
+    color: yellow;
+}
+a{
+    color: rgb(212, 144, 16);
+}
+.info {
+    color: rgb(59, 26, 26);
+}
+.skyrax {
+    color: rgb(0, 255, 76);
+}
+.list {
+    color: rgb(238, 8, 8);
+}
+.low{
+    color: rgb(151, 151, 54);
+}
+.servis{
+    color: rgb(82, 82, 184);
+}
+
+.servis + p {
+    color: blue;
+}
+.servis-span {
+    color: rgb(141, 31, 31);
+}
