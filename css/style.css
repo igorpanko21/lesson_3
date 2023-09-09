@@ -1,0 +1,14 @@
+.page {
+    color: red;
+}
+.text {
+}
+.title > h3{
+    color: green;
+}
+#top{
+    color: rgb(199, 15, 55);
+}
+.page ul{
+    color: black;
+}
